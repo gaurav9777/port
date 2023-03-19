@@ -31,7 +31,6 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import open_source from "./open_source.png";
 import incture from "./company/incture.png";
-import Java from "./tech/Java.png";
 import Kotlin from "./tech/Kotlin.png";
 import mysql from "./tech/mysql.png";
 import python from "./tech/python.png";

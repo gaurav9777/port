@@ -31,14 +31,14 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import open_source from "./open_source.png";
 import incture from "./company/incture.png";
-import java from "./tech/Java.png";
+import Java from "./tech/Java.png";
 import Kotlin from "./tech/Kotlin.png";
 import mysql from "./tech/mysql.png";
 import python from "./tech/python.png";
 import spring_boot from "./tech/spring_boot.png";
 import flask from "./tech/flask.png";
 import port from "./port.png";
-
+import java from "./tech/java.png";
 
 
 export {

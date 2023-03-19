@@ -25,13 +25,13 @@ import {
     tripguide,
     threejs,
     open_source,
-    java,
     Kotlin,
     mysql,
     python,
     spring_boot,
     flask,
     port,
+    java,
   } from "../assets";
   
   export const navLinks = [
